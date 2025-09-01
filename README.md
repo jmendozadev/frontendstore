@@ -1,2 +1,2 @@
 # frontendstore
-![Home Page del E-commerce](img/homepage.png)
+![Home Page del E-commerce](img/homepage.jpg)
